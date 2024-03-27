@@ -1,15 +1,15 @@
 # quiz-app
-Q&amp;A
- Kullanım
+ Usage
 
-1. `index.html` dosyasını bir web tarayıcısında açın.
-2. Karşınıza gelen sayfada "Başla" düğmesine tıklayın.
-3. Quiz başladığında, size belirli bir süre içinde soruları cevaplamanız için bir zamanlayıcı görüntülenecektir.
-4. Her bir sorunun altında, çeşitli seçenekler arasından doğru cevabı seçin.
-5. Tüm soruları cevapladıktan sonra, sonuçlarınızı görüntüleyin. Toplam doğru cevap sayısı ve skorunuz gösterilecektir.
+1. Open the `index.html` file in a web browser.
+2. On the page that appears, click on the "Start" button.
+3. When the quiz starts, you will be presented with a timer to answer the questions within a certain period of time.
+4. Under each question, select the correct answer from the various options.
+5. Once you have answered all the questions, view your results. The total number of correct answers and your score will be displayed.
 
- Özellikler
+ Features
 
-- Zamanlayıcı ile sınırlı süre içinde cevap verme özelliği.
-- Doğru ve yanlış cevapları belirtmek için renkli görsel geri bildirim.
-- Toplam doğru cevap sayısı ve skorun gösterilmesi.
+- Ability to answer within a limited time with timer.
+- Color visual feedback to indicate correct and incorrect answers.
+- Display of total number of correct answers and score.
+
